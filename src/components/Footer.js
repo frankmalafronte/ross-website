@@ -27,7 +27,7 @@ const Footer = () => (
         <div className="content has-text-centered">
           <article className="media center">
             <span className="icon">
-              <a href="https://github.com/frankmalafronte">
+              <a href="https://github.com/rossdingwall">
                 <FaGithub size="30px" color="black" />
               </a>
             </span>
@@ -38,11 +38,11 @@ const Footer = () => (
               </a>
             </span>
             &nbsp;
-            <span className="icon">
+            {/* <span className="icon">
               <a href="https://www.instagram.com/frankmalafronte/">
                 <FaInstagram size="30px" color="black" />
               </a>
-            </span>
+            </span> */}
             &nbsp;
           </article>
           &nbsp;
