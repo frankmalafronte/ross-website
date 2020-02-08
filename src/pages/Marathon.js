@@ -27,7 +27,8 @@ const Settlers = () => (
           <br />
         </div>
       </div>
-      <img src={SettlersImg}/>
+      <div>image here?</div>
+      {/* <img src={SettlersImg}/> */}
     </div>
   </section>
 );
