@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Frank Malafronte's Portfolio`,
-    description: `Frank Malafronte's Portfolio Website`,
+    title: `Ross Dingwall's Portfolio`,
+    description: `Ross Dingwall's Portfolio Website`,
     author: `Frank Malafronte <frankamalafronte@gmail.com>`,
     keywords: `Web developer, Web, Developer, Full stack, React, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Node, pulse-code`,
-        github: 'https://github.com/frankmalafronte',
-        linkedin: 'https://www.linkedin.com/in/frankmalafronte',
+        github: 'https://github.com/rossdingwall',
+        linkedin: 'https://www.linkedin.com/in/rossdingwall',
         gatsby: 'https://www.gatsbyjs.org/',
         bulma: 'https://bulma.io/',
-        siteUrl: 'https://frankmal.com',
+        siteUrl: 'https://rossdingwall.com',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
