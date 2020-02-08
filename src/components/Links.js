@@ -14,7 +14,7 @@ const Midsection = () => (
             <article className="media">
               <div className="media-content">
                 <div className="content">
-                  <Link to="/BillBoard">
+                  <Link to="/Billboard">
                     <h2 className="title is-size-4">Billboard Top 100</h2>
                   </Link>
                   <p className="subtitle is-size-5">
@@ -28,7 +28,7 @@ const Midsection = () => (
             <article className="media">
               <div className="media-content">
                 <div className="content">
-                  <Link to="/SettlersofFullstack">
+                  <Link to="/Marathon">
                     <h2 className="title is-size-4">Webscraping Marathons</h2>
                   </Link>
                   <p className="subtitle is-size-5">
