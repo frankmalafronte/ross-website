@@ -2,8 +2,8 @@
   "name": "rossdingwall.com",
   "private": true,
   "description": "Ross Dingwall's Personal Website",
-  "version": "0.1.0",
-  "author": "Ross <dingwallross@gmail.com>",
+  "version": "1.0",
+  "author": "Frank Mal <frankamalafronte@gmail.com>",
   "dependencies": {
     "bulma": "^0.7.4",
     "gatsby": "^2.2.11",
