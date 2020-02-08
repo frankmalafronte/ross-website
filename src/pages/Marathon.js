@@ -17,14 +17,13 @@ const Settlers = () => (
           </button>
         </Link>
         <div className="column is-three-quarters is-size-5">
-          <h1 className="title is-size-1 is-centered">Settlers of Fullstack</h1>
-            Settlers of Fullstack is a fully functional digital port of the popular
-            board game Settlers of Catan. Socket.io, React, Redux and advanced 
-            CSS skills were all heavily used. 
+          <h1 className="title is-size-1 is-centered">Webscraping Marathons</h1>
+          Webscraping and visualization of Nashville Rock N Roll Marathons, 2016-19
+
           <br />
           <br />
-          <a className="text is-size-5" href="http://settlers-of-fullstack.herokuapp.com">
-            settlers-of-fullstack.herokuapp.com
+          <a className="text is-size-5" href="https://github.com/rossdingwall/webscraping_marathons">
+          github.com/rossdingwall/webscraping_marathons
           </a>
           <br />
           <a className="text is-size-5" href='https://github.com/Interactive-NYC/Settlers-Of-Catan'>
