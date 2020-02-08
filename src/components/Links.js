@@ -14,12 +14,11 @@ const Midsection = () => (
             <article className="media">
               <div className="media-content">
                 <div className="content">
-                  <Link to="/DFS">
-                    <h2 className="title is-size-4">DFS Charts</h2>
+                  <Link to="/BillBoard">
+                    <h2 className="title is-size-4">Billboard Top 100</h2>
                   </Link>
                   <p className="subtitle is-size-5">
-                  A suite of helpful data for playing Daily Fantasy sports 
-                  using a custom recursive web scraper.
+                  Three analyses of the last 60 years in popular music
                   </p>
                 </div>
               </div>
@@ -30,39 +29,10 @@ const Midsection = () => (
               <div className="media-content">
                 <div className="content">
                   <Link to="/SettlersofFullstack">
-                    <h2 className="title is-size-4">Settlers of Fullstack</h2>
+                    <h2 className="title is-size-4">Webscraping Marathons</h2>
                   </Link>
                   <p className="subtitle is-size-5">
-                  A fully digital port of the popular board game Settlers of Catan
-                  </p>
-                </div>
-              </div>
-            </article>
-          </div>
-          <div className="column is-half">
-            <article className="media">
-              <div className="media-content">
-                <div className="content">
-                  <Link to="/Codingbooks">
-                    <h2 className="title is-size-4">Coding Books</h2>
-                  </Link>
-                  <p className="subtitle is-size-5">
-                  A functional E-commerce website for selling coding books
-
-                  </p>
-                </div>
-              </div>
-            </article>
-          </div>
-          <div className="column is-half">
-            <article className="media">
-              <div className="media-content">
-                <div className="content">
-                  <a href="/Stacktimer">
-                    <h2 className="title is-size-4">Stack Timer</h2>
-                  </a>
-                  <p className="subtitle is-size-5">
-                    A time management application developed in four days as part of Fullstack Academy's "Stackathon"
+                  Webscraping and visualization of Nashville Rock N Roll Marathons
                   </p>
                 </div>
               </div>

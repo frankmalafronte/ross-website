@@ -15,7 +15,7 @@ const Header = () => (
                 Hi! I'm a Data Analyst. I like finding data driven solutions
                 using Python, SQL, and Power BI
               </p>
-              {/* <Resume /> */}
+              <Resume />
               <Email />
             </div>
           </div>

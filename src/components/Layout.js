@@ -10,7 +10,7 @@ const Layout = ({ children }) => (
   <div>
     <Helmet />
     <Header />
-    {/* <Links /> */}
+    <Links />
     <Footer />
   </div>
 );

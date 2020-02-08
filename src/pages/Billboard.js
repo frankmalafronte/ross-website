@@ -1,10 +1,9 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import { FaChevronLeft } from 'react-icons/fa';
-import  '../components/style.scss';
-import codingBooks from '../images/codingBooks.png'
+import '../components/style.scss';
 
-const CodingBooks = () => (
+const DFS = () => (
   <section className="section">
     <div className="container">
       <div className="columns">
@@ -17,19 +16,21 @@ const CodingBooks = () => (
           </button>
         </Link>
         <div className="column is-three-quarters is-size-5">
-          <h1 className="title is-size-1 is-centered">CodingBooks</h1>
-          Coding Books is a fully functional E-commerce website built on React, Redux, Node & PostgreSQL. 
+          <h1 className="title is-size-1 is-centered">Billboard Hot 100</h1>
+         This project looks at trends ine the Billboard Hot 100 from 1958-2019 using Python
+         <br />
+        <br />
+        Space for another paragraph if you want
           <br />
           <br />
-          <a className="text is-size-5" href="http://codingbooks.herokuapp.com">
-            codingbooks.herokuapp.com
+          <a className="text is-size-5" href="https://github.com/rossdingwall/nss_capstone_billboard">
+          github.com/rossdingwall/nss_capstone_billboard
           </a>
           <br />
         </div>
       </div>
-      <img src={codingBooks}/>
     </div>
   </section>
 );
 
-export default CodingBooks;
+export default DFS;
